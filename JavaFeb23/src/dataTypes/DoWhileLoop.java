@@ -4,7 +4,8 @@ public class DoWhileLoop {
 
 	public static void main(String[] args) {
 		
-		String place = "Brooklyn";
+		// Made changes to the place 
+		String place = "Queens";
 		int start = 1;
 		
 		do
